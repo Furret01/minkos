@@ -4,7 +4,7 @@
 ### MinkOS is an unoficial version of Windows 11 made specifically for the Steam Deck. Here is all the things that MinkOS changes comared to a standard installation of Windows 11 in no particular order:
 
 # Download Link: [Dropbox](https://www.dropbox.com/s/rgc8snzk6ooz7lj/MinkOS%201.0%20%2822H2%29%20Acidic%20Aonyx.iso?dl=0)
-> Current ver: "1.0 "Acidic Aonyx (22H2 based)
+> Current ver: 1.0 "Acidic Aonyx" (22H2 based)
 
 ## Changes
   
