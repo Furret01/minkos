@@ -3,6 +3,8 @@
 
 MinkOS is an unoficial version of Windows 11 made specifically for the Steam Deck. Here is all the things that MinkOS changes comared to a standard installation of Windows 11 in no particular order:
 
+# Download Link: [Dropbox](https://www.dropbox.com/s/rgc8snzk6ooz7lj/MinkOS%201.0%20%2822H2%29%20Acidic%20Aonyx.iso?dl=0)
+
 ## Changes
   
   * Removed a LOT of unwanted apps
@@ -10,8 +12,11 @@ MinkOS is an unoficial version of Windows 11 made specifically for the Steam Dec
   * Customized Accent colors & Wallpaper
   
   * **Integrated ALL Steam Deck drivers directly into the operating system**
+## Preinstalled Apps
+
+  * Handheld Companion
   
-  * Handheld Companion will load custom hotkeys when installed (starts on first boot)
+  * ... thats it for now!
 
 ![2023-05-04 18_36_28-Greenshot](https://user-images.githubusercontent.com/35110759/236361884-f127cf1b-5ed0-43cb-b265-5625d4c9746e.png)
 
