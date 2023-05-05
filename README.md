@@ -15,7 +15,7 @@
   * **Integrated ALL Steam Deck drivers directly into the operating system**
 ## Preinstalled Apps
 
-  * Handheld Companion
+  * [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)
   
   * ... thats it for now!
 
@@ -23,6 +23,8 @@
 
 ## Known Bugs
   * You still have to manually rotate the screen to Landscape after install
+
+  * Xbox app does not want to log in
 
   * The taskbar color is a little too blue, and can blend in with icons
   
